@@ -1,18 +1,16 @@
-# AMDOX-TECH-PROJECT (Full-Stack Capstone)
+# AMDOX-TECH-PROJECT (Frontend Capstone)
 
-Full-stack Capstone Project submission for Amdox Tech. 
+Frontend Capstone Project submission for Amdox Tech. 
 
 ## 🚀 Live Project Links
 * **Live Frontend:** [Netlify Deployment](https://6a66ee27f9e9fa4451453125--resonant-alfajores-a41ed5.netlify.app/)
-* **Live Backend API:** *(Pending Render Link)*
-* **Project Walkthrough Video:** *(Pending Video Link)*
+* **Project Walkthrough Video:** *(Add your video link here once recorded)*
 
 ## 💻 Technologies Used
 * **Frontend:** React, Vite, CSS
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-
+## 💻 lIVE Video 
+https://drive.google.com/file/d/1tacHcngXrYlGtJz6ezTpfvhbTPk-35Id/view?usp=sharing
 ## ⚙️ Features
-* User Authentication (Login / Signup)
-* Protected Dashboard
-* Full CRUD Operations (Create, Read, Update, Delete)
+* Interactive User Interface
+* Responsive Design Layouts
+* Component-Based Architecture
